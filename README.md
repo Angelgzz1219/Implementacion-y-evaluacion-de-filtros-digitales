@@ -1,2 +1,34 @@
-# Implementaci-n-y-evaluaci-n-de-filtros-digitales
-Proyecto de implementación y evaluación de filtros digitales utilizando Python y SciPy. Incluye el diseño de filtros pasa bajos, pasa altos y pasa bandas, análisis de señales con ruido, respuesta en frecuencia y visualización de resultados mediante gráficas.
+# Implementación y Evaluación de Filtros Digitales
+
+## Descripción
+
+Este proyecto implementa filtros digitales utilizando Python y SciPy.
+
+Se diseñaron:
+
+- Filtro pasa bajos
+- Filtro pasa altos
+- Filtro pasa bandas
+
+Los filtros fueron aplicados a señales compuestas con ruido para analizar su comportamiento en los dominios del tiempo y de la frecuencia.
+
+## Herramientas utilizadas
+
+- Python 3
+- NumPy
+- SciPy
+- Matplotlib
+
+## Ejecución
+
+Instalar dependencias:
+
+pip install numpy scipy matplotlib
+
+Ejecutar:
+
+python filtros_digitales.py
+
+## Autor
+
+Angel Emaus Gonzalez Avalos
